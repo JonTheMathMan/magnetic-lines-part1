@@ -1,4 +1,4 @@
-#Figuring out the math of a compass near a magnet for fun.
+# Figuring out the math of a compass near a magnet for fun.
 ![alt text](magnetSimulating/screenshot1.png "") 
 
 This was a project where I just puked code onto the computer without regard for organization or clean coding (which I don't excel in anyway just yet) in order to figure out the math.
