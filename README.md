@@ -1,5 +1,5 @@
 # Figuring Out The Math of A Compass Near A Magnet for Fun.
-![alt text](magnetSimulating/screenshot1.png "") 
+![alt text](magnetSimulating/screenshot1.png) 
 
 This was a project where I just puked code onto the computer without regard for organization or clean coding (which I don't excel in anyway just yet) in order to figure out the math.
 
@@ -7,4 +7,4 @@ In the program I call the rotating compasses "iron filings" but that is inaccura
 
 In part 2 of this program I hope to make smooth lines. In part 3 I hope to make it 3D, perhaps as a python script for Blender's 3D software. One small hiccup on a blender python script is that I have not learned python yet, but no biggie.
 
-![alt text](magnetSimulating/screenshot2.png "")
+![alt text](magnetSimulating/screenshot2.png)
